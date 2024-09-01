@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "mysql",
+      "database": "sqlnode",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "mysql",
+      "database": "sqlnode_test",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "mysql",
+      "database": "sqlnode_prod",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
